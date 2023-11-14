@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - barrel
+  - base
+  - enemyBullet
+  - yellowBullet
+  - pinkBullet
+  - redBullet
+  - purpleBullet
+  - orangeBullet
+  - orangeGem
+  - redGem
+  - yellowGem
+  - purpleGem
+  - pinkGem
+  - yellowEntrance
+  - yellowExit
+  - redEntrance
+  - redExit
+  - pinkEntrance
+  - pinkExit
+  - purpleExit
+  - purpleEntrance
+  - orangeEntrance
+  - orangeExit
+  - yellowBossGem
+  - pinkBossGem
+  - redBossGem
+  - purpleBossGem
+  - orangeBossGem
+  - baseSpawnPoint
+  - worldSpawnPoint
+  - baseExit
+  - islandSpawnPoint
+  - yellowSpawnPoint
+  - pinkSpawnPoint
+  - redSpawnPoint
+  - purpleSpawnPoint
+  - orangeSpawnPoint
+  - healthPad
+  - GemY
+  - GemYspot
+  - GemP
+  - GemPspot
+  - GemPi
+  - GemPispot
+  - GemR
+  - GemRspot
+  - GemO
+  - GemOspot
+  - GameOverSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Menu
+  - Barrel
+  - GameOver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
